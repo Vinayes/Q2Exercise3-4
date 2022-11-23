@@ -1,0 +1,33 @@
+    #div1{
+	        border-style: dotted;
+	        border-color: #283429;
+	        margin: 15%;
+	        padding: 12px;
+         }
+         #produc{
+         	font-family: 'dosis', sans-serif;
+         	font-size: 14pt;
+         	text-align: left;
+         	margin-left: 20px;
+         	margin-right: 20;
+         }
+         #price{
+         	margin-top: 25px;
+         	margin-bottom: 25px;
+         	font-family: 'bayon', sans-serif;]
+         	font-size: 100pt;
+         	text-align: center;
+         }
+         body{
+         	border-color: #d6eaf8;
+         }
+
+         img{
+         	height: 50%;
+         	width: 50%;
+         	margin-left: 200px;
+         	margin-right: 100px;
+
+         	border: 1px solid #ddd;
+         	border-radius: 4px;
+         }
